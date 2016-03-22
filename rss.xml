@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Streeter Technologies]]></title>
         <description><![CDATA[Streeter Technologies]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/streetertech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 13:04:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 13:21:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/streetertech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact Us]]></title>
+            <description><![CDATA[<article><h1>Contact Us</h1><p>Phone: 212.529.3298Email: info@streetertech.com150 Broadway Floor 20New York, NY 10038</p></article>]]></description>
+            <link>https://thegrid.ai/streetertech/contact-us/index.html</link>
+            <guid isPermaLink="false">2b190ec8-c3a3-4b71-b90c-4d68549b75e2</guid>
+            <pubDate>Tue, 22 Mar 2016 13:21:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1b77e8f-69d0-4c4a-84fc-65832671e327.jpg">]]></description>
-            <link>undefineda8a2af17-0fc3-45e4-b902-452f0044bd46/index.html</link>
+            <link>https://thegrid.ai/streetertech/a8a2af17-0fc3-45e4-b902-452f0044bd46/index.html</link>
             <guid isPermaLink="false">a8a2af17-0fc3-45e4-b902-452f0044bd46</guid>
             <pubDate>Tue, 22 Mar 2016 13:03:38 GMT</pubDate>
         </item>
