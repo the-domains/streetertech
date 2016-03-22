@@ -6,20 +6,30 @@ inLanguage: null
 starred: false
 keywords: []
 description: STI SLA
-datePublished: '2016-03-22T13:24:08.057Z'
-dateModified: '2016-03-22T13:23:55.797Z'
+datePublished: '2016-03-22T13:34:46.437Z'
+dateModified: '2016-03-22T13:33:43.453Z'
 title: 'Response & Resolution Times'
+author: []
+sourcePath: _posts/2016-03-22-response-and-resolution-times.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-03-22-response-and-resolution-times.md
-published: true
 url: response-and-resolution-times/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18224c4a-ede3-4569-a6a4-6e2a7273db9a.png)
+Initial Response:  
+8:30AM through 6:30PM - Immediate to 30 minutes  
+(Monday - Friday, excluding holidays)  
+24 x 7 on-call - Immediate to 2 hours  
+(includes nights, weekends, and holidays)  
+Active Resolution:  
+Quick Fix (under 10 minutes required to resolve) - Immediate  
+Network-wide work stoppage - Immediate to 2 hours  
+Individual work stoppage - Immediate to 4 hours  
+Non-work stoppage and "moves, adds, changes" - 2 to 3 days  
+Accelerated Response - Upon Request (double hourly rate)
