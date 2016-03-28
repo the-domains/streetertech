@@ -4,8 +4,15 @@
         <description><![CDATA[Streeter Technologies]]></description>
         <link>https://thegrid.ai/streetertech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 22:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 22:22:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/streetertech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>About Us</p>]]></description>
+            <link>https://thegrid.ai/streetertech/about-us/index.html</link>
+            <guid isPermaLink="false">0bb6db70-ca1c-4f05-9884-9d01a2c4db4a</guid>
+            <pubDate>Mon, 28 Mar 2016 22:21:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Streeter Standards</p>]]></description>
